@@ -1992,7 +1992,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-dark h1, .pt-dark .comingsoon .content-wrapper .content-inner .cs-timer .item .nbr-timer, .comingsoon .content-wrapper .content-inner .cs-timer .item .pt-dark .nbr-timer {
-  color: #ececec;
+  color: #111;
 }
 
 .pt-dark .breadcrumb li a {
@@ -2060,7 +2060,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-lg-dark {
-  background: url(http://placehold.it/2440x1280);
+  background: #ffe0f7;
   background-size: cover;
 }
 
@@ -2071,7 +2071,6 @@ fieldset[disabled] .form-control:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(17, 17, 17, 0.83);
 }
 
 .pt-plax-lg-light {
@@ -10184,7 +10183,7 @@ form .input-error-2:focus {
 
 .table thead {
   border: none;
-  background: #111;
+  background: #fe91ca;
 }
 
 .table thead tr th {
